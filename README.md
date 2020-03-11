@@ -1,4 +1,4 @@
-# swift-links
+# Swift Links
 Cool Links for Swift
 
 
