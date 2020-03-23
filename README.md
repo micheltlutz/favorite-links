@@ -20,3 +20,7 @@ oriented-programming/)
 - [BerkananLite](https://github.com/zssz/BerkananLite) - Mensageiro BLT
 - [iOS-BestFall](https://github.com/victorpanitz/iOS-BestFall) - Victor
 - [straw](https://github.com/maxgoedjen/straw) - Push on simulator
+- [create-dmg](https://github.com/sindresorhus/create-dmg)
+- [Documentation tool](https://github.com/bow-swift/nef)
+- [Panels - sliding panels](https://github.com/antoniocasero/Panels)
+
