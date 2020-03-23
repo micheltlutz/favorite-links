@@ -23,4 +23,18 @@ oriented-programming/)
 - [create-dmg](https://github.com/sindresorhus/create-dmg)
 - [Documentation tool](https://github.com/bow-swift/nef)
 - [Panels - sliding panels](https://github.com/antoniocasero/Panels)
+- [Skeleton](https://github.com/gonzalonunez/Skeleton)
+
+## Architecture Posts
+
+[ios-monorepo](https://eng.uber.com/ios-monorepo/)
+[deep-linking](https://medium.com/@albertodebo/deep-linking-at-scale-on-ios-1dd8789c389f)
+[NavigationEngineDemo](https://github.com/justeat/NavigationEngineDemo)
+[Scaling ios Uber](https://atscaleconference.com/videos/blazing-fast-scaling-ios-at-uber/)
+
+## Keynote Utils
+
+[Carbon](https://carbon.now.sh/)
+[Carbon GitHub](https://github.com/carbon-app/carbon)
+
 
