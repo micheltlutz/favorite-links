@@ -16,6 +16,6 @@ oriented-programming/)
 
 ## GitRepos
 
-[MultipeerKit](https://github.com/insidegui/MultipeerKit) - Rambo
-[BerkananLite](https://github.com/zssz/BerkananLite) - Mensageiro BLT
-[iOS-BestFall](https://github.com/victorpanitz/iOS-BestFall) - Victor
+- [MultipeerKit](https://github.com/insidegui/MultipeerKit) - Rambo
+- [BerkananLite](https://github.com/zssz/BerkananLite) - Mensageiro BLT
+- [iOS-BestFall](https://github.com/victorpanitz/iOS-BestFall) - Victor
