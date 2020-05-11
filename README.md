@@ -25,24 +25,28 @@ Cool Links for Swift
 
 ## Architecture Posts
 
-[ios-monorepo](https://eng.uber.com/ios-monorepo/)
-[deep-linking](https://medium.com/@albertodebo/deep-linking-at-scale-on-ios-1dd8789c389f)
-[NavigationEngineDemo](https://github.com/justeat/NavigationEngineDemo)
-[Scaling ios Uber](https://atscaleconference.com/videos/blazing-fast-scaling-ios-at-uber/)
+- [ios-monorepo](https://eng.uber.com/ios-monorepo/)
+- [deep-linking](https://medium.com/@albertodebo/deep-linking-at-scale-on-ios-1dd8789c389f)
+- [NavigationEngineDemo](https://github.com/justeat/NavigationEngineDemo)
+- [Scaling ios Uber](https://atscaleconference.com/videos/blazing-fast-scaling-ios-at-uber/)
 
 ## Keynote Utils
 
-[Carbon](https://carbon.now.sh/)
-[Carbon GitHub](https://github.com/carbon-app/carbon)
+- [Carbon](https://carbon.now.sh/)
+- [Carbon GitHub](https://github.com/carbon-app/carbon)
 
 ## Project Utils
 
-[SwiftKit](https://github.com/SvenTiigi/SwiftKit)
+- [SwiftKit](https://github.com/SvenTiigi/SwiftKit)
+
+## SwiftUI Components
+
+ - [SnapCarousel.swift](https://gist.github.com/xtabbas/97b44b854e1315384b7d1d5ccce20623)
 
 ## WWDC
 
-[Introducing SF Symbols](https://developer.apple.com/videos/play/wwdc2019/206/)
-[Font Management and Text Scaling](https://developer.apple.com/videos/play/wwdc2019/227)
-[Adopting Swift Packages in Xcode](https://developer.apple.com/videos/play/wwdc2019/408/)
-[Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
+- [Introducing SF Symbols](https://developer.apple.com/videos/play/wwdc2019/206/)
+- [Font Management and Text Scaling](https://developer.apple.com/videos/play/wwdc2019/227)
+- [Adopting Swift Packages in Xcode](https://developer.apple.com/videos/play/wwdc2019/408/)
+- [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
 
