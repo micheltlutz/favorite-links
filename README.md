@@ -7,6 +7,8 @@ Cool Links for Swift
 - [rambo.codes](https://rambo.codes)
 - [swiftrocks](https://swiftrocks.com)
 - [nshipster](https://nshipster.com)
+- [hackingwithswift](https://www.hackingwithswift.com)
+- [objc.io](https://www.objc.io)
 
 ## Tests
 
