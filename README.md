@@ -1,6 +1,12 @@
 # Swift Links
 Cool Links for Swift
 
+## Great Blogs and posts
+
+- [swiftbysundell](https://www.swiftbysundell.com)
+- [rambo.codes](https://rambo.codes)
+- [swiftrocks](https://swiftrocks.com)
+- [nshipster](https://nshipster.com)
 
 ## Tests
 
