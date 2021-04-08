@@ -71,7 +71,7 @@
 - [Redux-like state container in SwiftUI. Connectors](https://swiftwithmajid.com/2021/02/03/redux-like-state-container-in-swiftui-part4/)
 - [SnapCarousel.swift](https://gist.github.com/xtabbas/97b44b854e1315384b7d1d5ccce20623)
 - [How Swift 5.3 enhances SwiftUI’s DSL](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/)
-
+- [SwiftUI Discover - swiftbysundell](https://swiftbysundell.com/discover/swiftui/)
 
 ### Navigation
 
