@@ -58,3 +58,6 @@ Cool Links for Swift
 - [Adopting Swift Packages in Xcode](https://developer.apple.com/videos/play/wwdc2019/408/)
 - [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
 
+# SAFe
+
+- [Por que o SAFe vem destruindo o mindset Agile no Brasil](https://massimus.com/sem-categoria/por-que-o-safe-vem-destruindo-o-mindset-agile-no-brasil)
