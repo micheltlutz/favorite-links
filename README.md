@@ -1,5 +1,6 @@
-# Swift Links
-Cool Links for Swift
+# My Favorite Links
+
+> My list of useful links on swift, software engineering, project management
 
 ## Great Blogs and posts
 
@@ -9,6 +10,9 @@ Cool Links for Swift
 - [nshipster](https://nshipster.com)
 - [hackingwithswift](https://www.hackingwithswift.com)
 - [objc.io](https://www.objc.io)
+- [Swift with Majid](https://swiftwithmajid.com)
+- [POINT FREE](https://www.pointfree.co)
+
 
 ## Tests
 
@@ -18,6 +22,8 @@ Cool Links for Swift
 - [iOS Unit Testing by Example](https://pragprog.com/book/jrlegios/ios-unit-testing-by-example)
 - [Practical Protocol-Oriented-Programming](https://academy.realm.io/posts/appbuilders-natasha-muraschev-practical-protocol-oriented-programming/)
 - [Build Failed Podcast: 5 - Testes](https://open.spotify.com/episode/2NL2893NhtmnWf9uSQ3V89?si=TT2yc-1oTGquNJXGcbRYJQ)
+- [Automatizando Testes Nativos para iOS com o XCTest](https://pay.hotmart.com/F42379363W?checkoutMode=10&bid=1612822927611)
+- [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
 
 
 ## GitRepos
@@ -37,19 +43,41 @@ Cool Links for Swift
 - [deep-linking](https://medium.com/@albertodebo/deep-linking-at-scale-on-ios-1dd8789c389f)
 - [NavigationEngineDemo](https://github.com/justeat/NavigationEngineDemo)
 - [Scaling ios Uber](https://atscaleconference.com/videos/blazing-fast-scaling-ios-at-uber/)
+- [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/)
+
 
 ## Keynote Utils
 
 - [Carbon](https://carbon.now.sh/)
 - [Carbon GitHub](https://github.com/carbon-app/carbon)
 
+
 ## Project Utils
 
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit)
 
-## SwiftUI Components
 
- - [SnapCarousel.swift](https://gist.github.com/xtabbas/97b44b854e1315384b7d1d5ccce20623)
+## Swift Foundations, Features and Core
+
+- [Grand Central Dispatch](https://www.swiftbysundell.com/basics/grand-central-dispatch/)
+- [Swift — What is the Optional Binding? (?/!)](https://batuhans.medium.com/swift-what-is-the-optional-binding-7624c7f9098e)
+- [Optional Chaining](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
+- [Ignoring invalid JSON elements when using Codable](https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/)
+
+
+## SwiftUI
+
+- [Modeling app state using Store objects in SwiftUI](https://swiftwithmajid.com/2019/09/04/modeling-app-state-using-store-objects-in-swiftui/)
+- [Redux-like state container in SwiftUI. Connectors](https://swiftwithmajid.com/2021/02/03/redux-like-state-container-in-swiftui-part4/)
+- [SnapCarousel.swift](https://gist.github.com/xtabbas/97b44b854e1315384b7d1d5ccce20623)
+- [How Swift 5.3 enhances SwiftUI’s DSL](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/)
+
+
+### Navigation
+
+- [Lazy navigation in SwiftUI](https://swiftwithmajid.com/2021/01/27/lazy-navigation-in-swiftui/)
+- [Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/)
+
 
 ## WWDC
 
