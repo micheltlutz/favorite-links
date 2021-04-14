@@ -45,17 +45,19 @@
 - [Scaling ios Uber](https://atscaleconference.com/videos/blazing-fast-scaling-ios-at-uber/)
 - [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/)
 
+## Modularization
+
+- [GitHub Topics - modularization + swift](https://github.com/topics/modularization?l=swift)
 
 ## Keynote Utils
 
 - [Carbon](https://carbon.now.sh/)
 - [Carbon GitHub](https://github.com/carbon-app/carbon)
 
-
 ## Project Utils
 
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit)
-
+- [Table CLI](https://github.com/JanGorman/Table)
 
 ## Swift Foundations, Features and Core
 
@@ -63,7 +65,6 @@
 - [Swift — What is the Optional Binding? (?/!)](https://batuhans.medium.com/swift-what-is-the-optional-binding-7624c7f9098e)
 - [Optional Chaining](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
 - [Ignoring invalid JSON elements when using Codable](https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/)
-
 
 ## SwiftUI
 
@@ -73,11 +74,17 @@
 - [How Swift 5.3 enhances SwiftUI’s DSL](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/)
 - [SwiftUI Discover - swiftbysundell](https://swiftbysundell.com/discover/swiftui/)
 
-### Navigation
+## Navigation
 
 - [Lazy navigation in SwiftUI](https://swiftwithmajid.com/2021/01/27/lazy-navigation-in-swiftui/)
 - [Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/)
 
+
+## Swift Server
+
+- [jummper](https://github.com/jumpper/jumpper)
+- [Beginner's guide to Server side Swift using Vapor 4](https://theswiftdev.com/beginners-guide-to-server-side-swift-using-vapor-4/)
+- [SSWG](https://github.com/swift-server/sswg)
 
 ## WWDC
 
