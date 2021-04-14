@@ -48,6 +48,7 @@
 ## Modularization
 
 - [GitHub Topics - modularization + swift](https://github.com/topics/modularization?l=swift)
+- [iOS Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
 
 ## Keynote Utils
 
