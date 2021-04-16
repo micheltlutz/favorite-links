@@ -87,6 +87,14 @@
 - [Beginner's guide to Server side Swift using Vapor 4](https://theswiftdev.com/beginners-guide-to-server-side-swift-using-vapor-4/)
 - [SSWG](https://github.com/swift-server/sswg)
 
+## Swift Pi, ARM, iOS
+
+- [swift-arm.com](https://swift-arm.com)
+- [buildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM)
+- [swift-arm](https://packagecloud.io/swift-arm)
+- [futurejones Swift on Arm](https://futurejones.com)
+- [Swift-Lite](https://www.swift-lite.org)
+
 ## WWDC
 
 - [Introducing SF Symbols](https://developer.apple.com/videos/play/wwdc2019/206/)
