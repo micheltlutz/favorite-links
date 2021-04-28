@@ -13,7 +13,6 @@
 - [Swift with Majid](https://swiftwithmajid.com)
 - [POINT FREE](https://www.pointfree.co)
 
-
 ## Tests
 
 - [Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/)
@@ -24,7 +23,7 @@
 - [Build Failed Podcast: 5 - Testes](https://open.spotify.com/episode/2NL2893NhtmnWf9uSQ3V89?si=TT2yc-1oTGquNJXGcbRYJQ)
 - [Automatizando Testes Nativos para iOS com o XCTest](https://pay.hotmart.com/F42379363W?checkoutMode=10&bid=1612822927611)
 - [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
-
+- [Testing error code paths in Swift](https://www.swiftbysundell.com/articles/testing-error-code-paths-in-swift/)
 
 ## GitRepos
 
