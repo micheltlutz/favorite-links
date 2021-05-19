@@ -25,6 +25,7 @@
 - [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/articles/testing-error-code-paths-in-swift/)
 - [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+- [Martin Fowler- Mocks Arent Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 
 ## GitRepos
 
