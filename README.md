@@ -24,6 +24,7 @@
 - [Automatizando Testes Nativos para iOS com o XCTest](https://pay.hotmart.com/F42379363W?checkoutMode=10&bid=1612822927611)
 - [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/articles/testing-error-code-paths-in-swift/)
+- [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 
 ## GitRepos
 
