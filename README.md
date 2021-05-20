@@ -15,6 +15,10 @@
 
 ## Tests
 
+- [Martin Fowler - TestPyramid](https://martinfowler.com/bliki/TestPyramid.html)
+- [Martin Fowler - UnitTest](https://martinfowler.com/bliki/UnitTest.html)
+- [Martin Fowler - Mocks Arent Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [Martin Fowler - Microservice Testing](https://martinfowler.com/articles/microservice-testing/#anatomy-modules)
 - [Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/)
 - [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417)
 - [Keeping Software Soft - Gerard Meszaros](https://www.youtube.com/watch?v=JwE2DkSGxro)
@@ -25,7 +29,7 @@
 - [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/)
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/articles/testing-error-code-paths-in-swift/)
 - [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
-- [Martin Fowler- Mocks Arent Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [Como funciona uma piramide de testes](https://hypeflame.blog/2020/12/07/como-funciona-uma-piramide-de-testes/)
 
 ## GitRepos
 
