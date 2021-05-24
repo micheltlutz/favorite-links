@@ -41,6 +41,7 @@
 - [Documentation tool](https://github.com/bow-swift/nef)
 - [Panels - sliding panels](https://github.com/antoniocasero/Panels)
 - [Skeleton](https://github.com/gonzalonunez/Skeleton)
+- [Awesome macOS open source applications](https://github.com/sindresorhus/open-source-mac-os-apps)
 
 ## Architecture Posts
 
