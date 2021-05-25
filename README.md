@@ -11,6 +11,7 @@
 - [hackingwithswift](https://www.hackingwithswift.com)
 - [objc.io](https://www.objc.io)
 - [Swift with Majid](https://swiftwithmajid.com)
+- [iOS Dev Weekly](https://iosdevweekly.com)
 - [POINT FREE](https://www.pointfree.co)
 
 ## Tests
