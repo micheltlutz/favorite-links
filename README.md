@@ -43,6 +43,7 @@
 - [Panels - sliding panels](https://github.com/antoniocasero/Panels)
 - [Skeleton](https://github.com/gonzalonunez/Skeleton)
 - [Awesome macOS open source applications](https://github.com/sindresorhus/open-source-mac-os-apps)
+- [SwiftUIRouter](https://github.com/OrkhanAlikhanov/SwiftUIRouter)
 
 ## Architecture Posts
 
@@ -51,11 +52,13 @@
 - [NavigationEngineDemo](https://github.com/justeat/NavigationEngineDemo)
 - [Scaling ios Uber](https://atscaleconference.com/videos/blazing-fast-scaling-ios-at-uber/)
 - [Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/)
+- [How to make solid iOS architecture decisions and pass iOS interviews | iOS Dev Live Mentoring](https://www.essentialdeveloper.com/articles/how-to-make-solid-ios-architecture-decisions-and-pass-ios-interviews-ios-dev-live-mentoring)
 
 ## Modularization
 
 - [GitHub Topics - modularization + swift](https://github.com/topics/modularization?l=swift)
 - [iOS Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
+- [Modular Architecture in iOS](https://tech.olx.com/modular-architecture-in-ios-c1a1e3bff8e9)
 
 ## Keynote Utils
 
@@ -73,6 +76,7 @@
 - [Swift — What is the Optional Binding? (?/!)](https://batuhans.medium.com/swift-what-is-the-optional-binding-7624c7f9098e)
 - [Optional Chaining](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
 - [Ignoring invalid JSON elements when using Codable](https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/)
+- [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 ## SwiftUI
 
@@ -86,7 +90,6 @@
 
 - [Lazy navigation in SwiftUI](https://swiftwithmajid.com/2021/01/27/lazy-navigation-in-swiftui/)
 - [Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/)
-
 
 ## Swift Server
 
@@ -108,6 +111,10 @@
 - [Font Management and Text Scaling](https://developer.apple.com/videos/play/wwdc2019/227)
 - [Adopting Swift Packages in Xcode](https://developer.apple.com/videos/play/wwdc2019/408/)
 - [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
+
+# Agile
+
+- [Agile Everywhere](https://blog.crisp.se/wp-content/uploads/2018/10/20181017-leanforum-agile-everywhere.pdf)
 
 # SAFe
 
