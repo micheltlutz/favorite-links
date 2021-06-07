@@ -141,6 +141,7 @@
 - [Design Thinking: ferramenta de inovação para empreendedoras e empreendedores](https://endeavor.org.br/tecnologia/design-thinking-inovacao/)
 - [Learning Design Thinking: Lead Change in Your Organization](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization/welcome)
 - [Design Thinking: Understanding the Process](https://www.linkedin.com/learning/design-thinking-understanding-the-process/what-is-design-thinking)
+- [Apply design thinking to complex teams, problems, and organizations.]()
 
 ## Agile
 
