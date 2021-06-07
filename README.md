@@ -113,6 +113,15 @@
 - [Adopting Swift Packages in Xcode](https://developer.apple.com/videos/play/wwdc2019/408/)
 - [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
 
+## AWS
+
+- [AWS glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+
+### AWS - Certifications
+
+- [AWS Cloud Practitioner Essentials - FREE](https://www.aws.training/Details/eLearning?id=60697)
+
+
 ## Leadership
 
 - [Tech Leadership Rocks](https://techleadership.rocks)
