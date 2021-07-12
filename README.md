@@ -128,3 +128,9 @@
 ### AWS - Certifications
 
 - [AWS Cloud Practitioner Essentials - FREE](https://www.aws.training/Details/eLearning?id=60697)
+
+
+## MORE ...
+
+- [Go to Agile Management](https://github.com/micheltlutz/favorite-links/blob/master/AGILE-MANAGEMENT.md)
+- [Go to artificial intelligence](https://github.com/micheltlutz/favorite-links/blob/master/IA.md)
