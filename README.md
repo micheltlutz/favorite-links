@@ -80,6 +80,7 @@
 
 ## SwiftUI
 
+- [Develop Apps for iOS - 12hr 15min Estimated Time](https://developer.apple.com/tutorials/app-dev-training/)
 - [Modeling app state using Store objects in SwiftUI](https://swiftwithmajid.com/2019/09/04/modeling-app-state-using-store-objects-in-swiftui/)
 - [Redux-like state container in SwiftUI. Connectors](https://swiftwithmajid.com/2021/02/03/redux-like-state-container-in-swiftui-part4/)
 - [SnapCarousel.swift](https://gist.github.com/xtabbas/97b44b854e1315384b7d1d5ccce20623)
