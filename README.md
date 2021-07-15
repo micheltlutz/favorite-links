@@ -107,6 +107,10 @@
 - [futurejones Swift on Arm](https://futurejones.com)
 - [Swift-Lite](https://www.swift-lite.org)
 
+## Pi
+
+- [Building a Raspberry Pi Hadoop / Spark Cluster](https://dev.to/awwsmm/building-a-raspberry-pi-hadoop-spark-cluster-8b2)
+- [Vamos transformar os seus Raspberry PI num cluster](https://pplware.sapo.pt/linux/transformar-os-seus-raspberry-pi-n-um-cluster/)
 
 ## Reactive programming
 
