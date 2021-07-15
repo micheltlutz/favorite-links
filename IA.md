@@ -9,5 +9,5 @@
 
 ## Big Data
 
-- [DATA ANALYTICS, BIG DATA, DATA SCIENCE – BLOG CETAX](https://www.cetax.com.br/blog/apache-hadoop/)
-
+- [DATA ANALYTICS, BIG DATA, DATA SCIENCE – BLOG CETAX - PT-BR](https://www.cetax.com.br/blog/apache-hadoop/)
+- [Hadoop: fundamentos e instalação - PT-BR](https://www.devmedia.com.br/hadoop-fundamentos-e-instalacao/29466)
