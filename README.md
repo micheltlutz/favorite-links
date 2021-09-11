@@ -77,6 +77,7 @@
 - [Optional Chaining](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
 - [Ignoring invalid JSON elements when using Codable](https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/)
 - [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [Distributing Binary Frameworks as Swift Packages](https://developer.apple.com/documentation/swift_packages/distributing_binary_frameworks_as_swift_packages)
 
 ## SwiftUI
 
@@ -118,7 +119,6 @@
 - [O Manifesto Reativo](https://www.reactivemanifesto.org/pt-BR)
 - [The Reactive Manifesto](https://www.reactivemanifesto.org)
 
-
 ## WWDC
 
 - [Introducing SF Symbols](https://developer.apple.com/videos/play/wwdc2019/206/)
@@ -133,7 +133,6 @@
 ### AWS - Certifications
 
 - [AWS Cloud Practitioner Essentials - FREE](https://www.aws.training/Details/eLearning?id=60697)
-
 
 ## MORE ...
 
