@@ -31,6 +31,7 @@
 - [Testing error code paths in Swift](https://www.swiftbysundell.com/articles/testing-error-code-paths-in-swift/)
 - [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 - [Como funciona uma piramide de testes](https://hypeflame.blog/2020/12/07/como-funciona-uma-piramide-de-testes/)
+- [Creating a Swift 5.2 Executable with Unit Tests](https://scottie.is/writing/swift-executables-with-unit-tests/)
 
 ## GitRepos
 
@@ -70,6 +71,15 @@
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit)
 - [Table CLI](https://github.com/JanGorman/Table)
 
+## Swift Executables
+
+- [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/articles/ultimate-guide-swift-executables/)
+
+## Swift AWS
+
+- [Introducing Swift AWS Lambda Runtime](https://www.swift.org/blog/aws-lambda-runtime/)
+- [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime)
+
 ## Swift Foundations, Features and Core
 
 - [Grand Central Dispatch](https://www.swiftbysundell.com/basics/grand-central-dispatch/)
@@ -99,6 +109,7 @@
 - [jummper](https://github.com/jumpper/jumpper)
 - [Beginner's guide to Server side Swift using Vapor 4](https://theswiftdev.com/beginners-guide-to-server-side-swift-using-vapor-4/)
 - [SSWG](https://github.com/swift-server/sswg)
+- [jumpper](https://github.com/jumpper/jumpper)
 
 ## Swift Pi, ARM, iOS
 
