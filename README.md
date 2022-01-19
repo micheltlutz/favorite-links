@@ -75,10 +75,6 @@
 
 - [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/articles/ultimate-guide-swift-executables/)
 
-## Swift AWS
-
-- [Introducing Swift AWS Lambda Runtime](https://www.swift.org/blog/aws-lambda-runtime/)
-- [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime)
 
 ## Swift Foundations, Features and Core
 
@@ -110,6 +106,21 @@
 - [Beginner's guide to Server side Swift using Vapor 4](https://theswiftdev.com/beginners-guide-to-server-side-swift-using-vapor-4/)
 - [SSWG](https://github.com/swift-server/sswg)
 - [jumpper](https://github.com/jumpper/jumpper)
+- [Server side Swift projects inside Docker using Vapor 4](https://theswiftdev.com/server-side-swift-projects-inside-docker-using-vapor-4/)
+
+## Swift Docker
+
+- [“Slim” Docker images for Swift](https://medium.com/@ianpartridge/slim-docker-images-for-swift-80b684216f1e)
+- [Using Swift Inside a Linux-Based Docker Container Environment](https://betterprogramming.pub/using-swift-inside-a-linux-based-docker-container-environment-65ec16b0004d)
+
+## Swift AWS
+
+- [Introducing Swift AWS Lambda Runtime](https://www.swift.org/blog/aws-lambda-runtime/)
+- [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime)
+- [Building Swift Serverless REST API with AWS Lambda & DynamoDB](https://alfianlosari.medium.com/building-swift-serverless-rest-api-with-aws-lambda-dynamodb-58db2302895f)
+- [AWS Lambda Tutorial for Swift: Getting Started](https://www.raywenderlich.com/18302911-aws-lambda-tutorial-for-swift-getting-started)
+- [Create an API in Swift and Deploy It to AWS Lambda](https://auth0.com/blog/create-an-api-in-swift-and-deploy-it-to-aws-lambda/)
+- [Swift Server ErrorHandling example Lambda](https://github.com/swift-server/swift-aws-lambda-runtime/blob/main/Examples/ErrorHandling/Lambda.swift)
 
 ## Swift Pi, ARM, iOS
 
