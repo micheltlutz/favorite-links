@@ -11,3 +11,4 @@
 
 - [DATA ANALYTICS, BIG DATA, DATA SCIENCE – BLOG CETAX - PT-BR](https://www.cetax.com.br/blog/apache-hadoop/)
 - [Hadoop: fundamentos e instalação - PT-BR](https://www.devmedia.com.br/hadoop-fundamentos-e-instalacao/29466)
+- [7 Bibliotecas de Ciência de Dados Para Construir Seu Portfólio de Projetos em 2022](https://blog.dsacademy.com.br/7-bibliotecas-de-ciencia-de-dados-para-construir-seu-portfolio-de-projetos-em_2022/)
