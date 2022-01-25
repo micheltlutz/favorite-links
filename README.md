@@ -159,4 +159,4 @@
 ## MORE ...
 
 - [Go to Agile Management](https://github.com/micheltlutz/favorite-links/blob/master/AGILE-MANAGEMENT.md)
-- [Go to artificial intelligence](https://github.com/micheltlutz/favorite-links/blob/master/IA.md)
+- [Go to artificial intelligence - Data Science](https://github.com/micheltlutz/favorite-links/blob/master/IA-DataScience.md)
