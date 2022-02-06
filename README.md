@@ -46,6 +46,10 @@
 - [Awesome macOS open source applications](https://github.com/sindresorhus/open-source-mac-os-apps)
 - [SwiftUIRouter](https://github.com/OrkhanAlikhanov/SwiftUIRouter)
 
+## Architecture Reference
+
+- [Software Developer To Software Architect](https://developertoarchitect.com)
+
 ## Architecture Posts
 
 - [ios-monorepo](https://eng.uber.com/ios-monorepo/)
