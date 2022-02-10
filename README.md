@@ -111,6 +111,7 @@
 - [SSWG](https://github.com/swift-server/sswg)
 - [jumpper](https://github.com/jumpper/jumpper)
 - [Server side Swift projects inside Docker using Vapor 4](https://theswiftdev.com/server-side-swift-projects-inside-docker-using-vapor-4/)
+- [Soto is a Swift language SDK for Amazon Web Services (AWS](https://soto.codes)
 
 ## Swift Docker
 
