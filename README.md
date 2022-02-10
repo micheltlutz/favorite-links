@@ -111,7 +111,6 @@
 - [SSWG](https://github.com/swift-server/sswg)
 - [jumpper](https://github.com/jumpper/jumpper)
 - [Server side Swift projects inside Docker using Vapor 4](https://theswiftdev.com/server-side-swift-projects-inside-docker-using-vapor-4/)
-- [Soto is a Swift language SDK for Amazon Web Services (AWS](https://soto.codes)
 
 ## Swift Docker
 
@@ -126,6 +125,7 @@
 - [AWS Lambda Tutorial for Swift: Getting Started](https://www.raywenderlich.com/18302911-aws-lambda-tutorial-for-swift-getting-started)
 - [Create an API in Swift and Deploy It to AWS Lambda](https://auth0.com/blog/create-an-api-in-swift-and-deploy-it-to-aws-lambda/)
 - [Swift Server ErrorHandling example Lambda](https://github.com/swift-server/swift-aws-lambda-runtime/blob/main/Examples/ErrorHandling/Lambda.swift)
+- [Soto is a Swift language SDK for Amazon Web Services (AWS](https://soto.codes)
 
 ## Swift Pi, ARM, iOS
 
