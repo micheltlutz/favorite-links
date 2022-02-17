@@ -88,6 +88,7 @@
 - [Ignoring invalid JSON elements when using Codable](https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/)
 - [Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [Distributing Binary Frameworks as Swift Packages](https://developer.apple.com/documentation/swift_packages/distributing_binary_frameworks_as_swift_packages)
+- [Reducers in Swift](https://www.swiftbysundell.com/articles/reducers-in-swift/)
 
 ## SwiftUI
 
