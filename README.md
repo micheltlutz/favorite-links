@@ -98,6 +98,7 @@
 - [SnapCarousel.swift](https://gist.github.com/xtabbas/97b44b854e1315384b7d1d5ccce20623)
 - [How Swift 5.3 enhances SwiftUI’s DSL](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/)
 - [SwiftUI Discover - swiftbysundell](https://swiftbysundell.com/discover/swiftui/)
+- [Writing testable code when using SwiftUI](https://www.swiftbysundell.com/articles/writing-testable-code-when-using-swiftui/)
 
 ## Navigation
 
