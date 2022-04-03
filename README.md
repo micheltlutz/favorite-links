@@ -13,6 +13,7 @@
 - [Swift with Majid](https://swiftwithmajid.com)
 - [iOS Dev Weekly](https://iosdevweekly.com)
 - [POINT FREE](https://www.pointfree.co)
+- [Midnight Swift](https://www.midnightswift.com)
 
 ## Tests
 
