@@ -33,6 +33,7 @@
 - [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 - [Como funciona uma piramide de testes](https://hypeflame.blog/2020/12/07/como-funciona-uma-piramide-de-testes/)
 - [Creating a Swift 5.2 Executable with Unit Tests](https://scottie.is/writing/swift-executables-with-unit-tests/)
+- [Test Doubles (Mocks, Stubs, Fakes, Spies e Dummies)](https://medium.com/rd-shipit/test-doubles-mocks-stubs-fakes-spies-e-dummies-a5cdafcd0daf)
 
 ## GitRepos
 
