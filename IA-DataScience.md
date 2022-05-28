@@ -16,3 +16,12 @@
 ## Data Driven
 
 - [Na Era da Informação, o aprendizado é data-driven](https://mittechreview.com.br/na-era-da-informacao-o-aprendizado-e-data-driven/)
+
+## NLP(Natural Language Processing)
+
+- [spaCy - Industrial-Strength Natural Language Processing](https://spacy.io)
+
+## Comunity
+
+- [Hugging Face](https://huggingface.co)
+- [OpenCog](https://opencog.org)
