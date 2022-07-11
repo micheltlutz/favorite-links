@@ -143,6 +143,8 @@
 
 - [Building a Raspberry Pi Hadoop / Spark Cluster](https://dev.to/awwsmm/building-a-raspberry-pi-hadoop-spark-cluster-8b2)
 - [Vamos transformar os seus Raspberry PI num cluster](https://pplware.sapo.pt/linux/transformar-os-seus-raspberry-pi-n-um-cluster/)
+- [Creating an Apache Spark Cluster with Raspberry Pi Workers](https://scott-ralph.medium.com/creating-an-apache-spark-cluster-with-raspberry-pi-workers-472c2c9a19ce)
+- [Build Raspberry Pi Hadoop/Spark Cluster from scratch](https://medium.com/analytics-vidhya/build-raspberry-pi-hadoop-spark-cluster-from-scratch-c2fa056138e0)
 
 ## Reactive programming
 
