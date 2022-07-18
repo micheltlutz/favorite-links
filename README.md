@@ -167,6 +167,21 @@
 
 - [AWS Cloud Practitioner Essentials - FREE](https://www.aws.training/Details/eLearning?id=60697)
 
+### AWS - Lambdas
+
+- [Optimizing your AWS Lambda costs – Part 1](https://aws.amazon.com/pt/blogs/compute/optimizing-your-aws-lambda-costs-part-1/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=5b2ed75a5d)
+
+### Application modernization
+
+- [Application Modernization](https://www.ibm.com/cloud/learn/application-modernization)
+- [Application modernization architecture](https://www.ibm.com/cloud/architecture/architectures/application-modernization/reference-architecture/)
+- [Decomposing monoliths into microservices](https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-decomposing-monoliths/welcome.html)
+- [Mitigating Risk by Modernizing Legacy IT Systems](https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-decomposing-monoliths/welcome.html)
+- [An Approach to Application Modernization: Planning & Design Phase](https://ernesenorelus.medium.com/an-approach-to-application-modernization-planning-design-phase-ab4ec4454914)
+- [What is the 3 horizons model & how can you use it?](https://boardofinnovation.com/blog/what-is-the-3-horizons-model-how-can-you-use-it/)
+- [The Three Horizons of innovation and culture change](https://medium.com/activate-the-future/the-three-horizons-of-innovation-and-culture-change-d9681b0e0b0f)
+- [Pattern: Strangler application](https://microservices.io/patterns/refactoring/strangler-application.html)
+
 ## MORE ...
 
 - [Go to Agile Management](https://github.com/micheltlutz/favorite-links/blob/master/AGILE-MANAGEMENT.md)
