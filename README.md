@@ -181,6 +181,7 @@
 - [What is the 3 horizons model & how can you use it?](https://boardofinnovation.com/blog/what-is-the-3-horizons-model-how-can-you-use-it/)
 - [The Three Horizons of innovation and culture change](https://medium.com/activate-the-future/the-three-horizons-of-innovation-and-culture-change-d9681b0e0b0f)
 - [Pattern: Strangler application](https://microservices.io/patterns/refactoring/strangler-application.html)
+- [Cloud Transformation Tools](https://www.linkedin.com/pulse/cloud-transformation-tools-dr-rabi-prasad-padhy/?trackingId=fO97OhgAAFsoGTDXBr9ALw%3D%3D)
 
 ## MORE ...
 
