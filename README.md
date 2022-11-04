@@ -77,10 +77,13 @@
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit)
 - [Table CLI](https://github.com/JanGorman/Table)
 
+## Apple Guides, Rules and Helpers
+
+- [Create, export, and delete signing certificates](https://help.apple.com/xcode/mac/current/#/dev154b28f09)
+
 ## Swift Executables
 
 - [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/articles/ultimate-guide-swift-executables/)
-
 
 ## Swift Foundations, Features and Core
 
