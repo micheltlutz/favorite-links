@@ -47,6 +47,7 @@
 - [Skeleton](https://github.com/gonzalonunez/Skeleton)
 - [Awesome macOS open source applications](https://github.com/sindresorhus/open-source-mac-os-apps)
 - [SwiftUIRouter](https://github.com/OrkhanAlikhanov/SwiftUIRouter)
+- [RequestDL by brennomoura](https://github.com/brennobemoura/request-dl)
 
 ## Architecture Reference
 
