@@ -21,7 +21,11 @@
 - [NLP — Datasets em português](https://medium.com/@pierre_guillou/nlp-datasets-em-português-7e1790a44d42)
 - [spaCy - Industrial-Strength Natural Language Processing](https://spacy.io)
 
-## Comunity
+## Community
 
 - [Hugging Face](https://huggingface.co)
 - [OpenCog](https://opencog.org)
+
+## VSCode Juppiter extension
+
+- [Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)
