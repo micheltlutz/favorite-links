@@ -26,6 +26,6 @@
 - [Hugging Face](https://huggingface.co)
 - [OpenCog](https://opencog.org)
 
-## VSCode Juppiter extension
+## VSCode Jupyter extension
 
 - [Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)
