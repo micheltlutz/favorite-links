@@ -25,6 +25,10 @@
 
 - [Na Era da Informação, o aprendizado é data-driven](https://mittechreview.com.br/na-era-da-informacao-o-aprendizado-e-data-driven/)
 
+## Data Viz
+
+- [Streamlit utils](https://grizzly-amaranthus-f6a.notion.site/Streamlit-3f599bdfbb584cd1b581e748b5291c36)
+
 ## Machine Learning
 
 - [PDDL](https://github.com/AI-Planning/pddl-generators)
