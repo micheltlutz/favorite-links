@@ -11,6 +11,10 @@
 
 - [Twine](https://twinery.org)
 
+## Business Intelligence
+
+- [Superset](https://github.com/apache/superset)
+
 ## Big Data
 
 - [DATA ANALYTICS, BIG DATA, DATA SCIENCE – BLOG CETAX - PT-BR](https://www.cetax.com.br/blog/apache-hadoop/)
