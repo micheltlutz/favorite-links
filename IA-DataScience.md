@@ -2,6 +2,11 @@
 
 - [OpenAI API](https://openai.com/blog/openai-api/)
 
+## Modular
+
+- [The future of AI development starts here](https://www.modular.com)
+- [Mojo 🔥 — a new programming language for all AI developers](https://www.modular.com/mojo)
+
 ## Conversation tools
 
 - [Twine](https://twinery.org)
@@ -15,6 +20,11 @@
 ## Data Driven
 
 - [Na Era da Informação, o aprendizado é data-driven](https://mittechreview.com.br/na-era-da-informacao-o-aprendizado-e-data-driven/)
+
+## Machine Learning
+
+- [PDDL](https://github.com/AI-Planning/pddl-generators)
+- [The Pac-Man Projects - CS188](https://inst.eecs.berkeley.edu/~cs188/sp19/projects.html)
 
 ## NLP(Natural Language Processing)
  
