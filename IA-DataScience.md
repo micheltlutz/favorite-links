@@ -1,6 +1,12 @@
 # Favorite Links Artificial Intelligence
 
+## Open AI
+
 - [OpenAI API](https://openai.com/blog/openai-api/)
+
+## Data Science
+
+- [Daily Dose of Data Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science?utm_source=substack&utm_medium=email)
 
 ## Modular
 
