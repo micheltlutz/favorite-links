@@ -15,6 +15,20 @@
 - [POINT FREE](https://www.pointfree.co)
 - [Midnight Swift](https://www.midnightswift.com)
 
+### Apple
+
+- [WWDC](https://developer.apple.com/wwdc/)
+- [Apple Open Source](https://opensource.apple.com/tarballs)
+- [App Store Promote](https://developer.apple.com//contact/app-store/promote/)
+- [Expedited App Review](https://developer.apple.com/contact/app-store/)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [Optimizing for App Store Search](https://developer.apple.com/app-store/search/)
+- [Apple System Status](https://developer.apple.com/system-status/) 
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+- [Auto-renewable Subscriptions](https://developer.apple.com/app-store/subscriptions/)
+- [App Store Connect Help](https://help.apple.com/app-store-connect)
+
+
 ## Tests
 
 - [Martin Fowler - TestPyramid](https://martinfowler.com/bliki/TestPyramid.html)
